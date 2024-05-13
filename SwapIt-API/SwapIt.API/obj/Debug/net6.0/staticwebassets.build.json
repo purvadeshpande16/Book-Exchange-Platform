@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ABmIXlykvgQPN0tVTYux5KtvkJUzYW/na80QBHPKCeU=",
+  "Source": "SwapIt.API",
+  "BasePath": "_content/SwapIt.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
